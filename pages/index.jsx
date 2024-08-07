@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Layout>
-        <section className="flex">
+        <section className="sm:flex">
           <Nav />
           <Logo />
           <Content />

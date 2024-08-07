@@ -3,7 +3,7 @@ export default function Logo() {
     <>
       <div
         id="logo"
-        className="bg-white drop-shadow-[0_20px_10px_rgb(0,0,0,0.08)] absolute w-[100px] h-[100px] rounded-[50%] left-[22%] z-[1] mt-[50px]">
+        className="hidden bg-white drop-shadow-[0_20px_10px_rgb(0,0,0,0.08)] sm:absolute w-[100px] h-[100px] rounded-[50%] sm:left-[29%] sm:z-[1] sm:mt-[50px] sm:hidden ">
         <svg
           className="absolute top-0 left-0 translate-x-[45%] translate-y-[50%]"
           xmlns="http://www.w3.org/2000/svg"
